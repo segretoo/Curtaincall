@@ -272,7 +272,16 @@ const Performances: React.FC = () => {
                         </CardContainer>
                     ))
                 ) : (
-                    <p style={{ textAlign: 'center' }}>데이터가 없습니다.</p>
+                    <div
+                        style={{
+                            display: 'flex',
+                            justifyContent: 'center',
+                            alignItems: 'center',
+                            width: '100%',
+                            marginLeft: '160%',
+                        }}>
+                        <Spin indicator={<LoadingOutlined style={{ fontSize: 48, color: '#bd90fb' }} spin />} />
+                    </div>
                 )}
             </PerformanceGrid>
 
