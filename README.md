@@ -41,10 +41,10 @@
 ## 💻 구현 사항
 
 ### 메인 페이지(시작화면)
-<a><img alt="main" src="https://github.com/user-attachments/assets/5292dc77-f51b-494c-9a9a-36efcdb37d71" alt="main page"/></a>
+<a><img src="https://github.com/user-attachments/assets/5292dc77-f51b-494c-9a9a-36efcdb37d71" alt="main page"/></a>
 
 <div align="center">
-<a><img alt="main" src="https://github.com/user-attachments/assets/ad0baa99-f223-47b0-818e-295c69f6991b" alt="main page"/></a>
+<a><img src="https://github.com/user-attachments/assets/ad0baa99-f223-47b0-818e-295c69f6991b" alt="main page"/></a>
 </div>
 
 <br>
@@ -66,19 +66,19 @@
 
 <br>
 
-### 공연 상세페이지
-<a><img src="https://github.com/user-attachments/assets/c7790d60-b979-46bb-a19a-d473ff666cf2"/></a>
+### 공연 상세 페이지
+<a><img src="https://github.com/user-attachments/assets/c7790d60-b979-46bb-a19a-d473ff666cf2" alt="performances detail page"/></a>
 
 <br>
 
-- 공연 상세페이지입니다.
+- 공연 상세 페이지입니다.
 - KOPIS API에 있는 정보들을 가져와서 보여주도록 했습니다.
 
 
 <br>
 
 ### 즐겨찾기 페이지
-<a><img src="https://github.com/user-attachments/assets/998ee4b5-5556-49db-8e02-9afba932d3c3"/></a>
+<a><img src="https://github.com/user-attachments/assets/998ee4b5-5556-49db-8e02-9afba932d3c3" alt="favourite page"/></a>
 
 <br>
 
